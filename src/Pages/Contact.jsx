@@ -95,8 +95,8 @@ const Contact = () => {
                   <p className="text-gray-600 text-sm mb-2">
                     For general inquiries and support:
                   </p>
-                  <a href="mailto:support@avitor.in" className="text-green-700 font-semibold hover:underline">
-                    support@avitor.in
+                  <a href="mailto:support@avitorpvtltd.in" className="text-green-700 font-semibold hover:underline">
+                    support@avitorpvtltd.in
                   </a>
                 </div>
               </div>

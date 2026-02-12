@@ -98,7 +98,7 @@ const PrivacyPolicy = () => {
             title="User Rights"
           >
             <p>
-              You retain rights over your personal data. Users may request access, correction, or deletion of their personal data stored with us by contacting our support team at <a href="mailto:support@avitor.in" className="text-green-600 font-medium hover:underline">support@avitor.in</a>.
+              You retain rights over your personal data. Users may request access, correction, or deletion of their personal data stored with us by contacting our support team at <a href="mailto:support@avitorpvtltd.in" className="text-green-600 font-medium hover:underline">support@avitorpvtltd.in</a>.
             </p>
           </PolicySection>
 
